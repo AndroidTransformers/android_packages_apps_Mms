@@ -431,5 +431,4 @@
 
     <!-- Add menu for 'Add SMS to calendar remind' -->
     <string name="menu_add_to_calendar">添加日历提醒</string>
->>>>>>> 2e7e1bd... Mms: Add new feature 'Add SMS to Calendar remind'.
 </resources>
